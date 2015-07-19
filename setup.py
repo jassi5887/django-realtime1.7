@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django-realtime',
+    name='django-realtime1.7',
     version='1.1',
     author='Anish menon',
     author_email='anish@inzane.in',
